@@ -1,0 +1,14 @@
+nav {
+
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+}
+
+nav input {
+    background-color: rgb(240, 240, 240);
+    padding: 1em;
+    border: none;
+    border-radius: 5px;
+    width: 50%;
+}
